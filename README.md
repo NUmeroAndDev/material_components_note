@@ -1,4 +1,4 @@
-# material_components_note
+# Material Theming Note
 
-MaterialComponents を適用した時の差分メモ
+Material Theming を適用した時の差分メモ
 
