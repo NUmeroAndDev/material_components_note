@@ -30,7 +30,11 @@
 * colorPrimary -> background  
 * colorOnPrimary -> selectedItem, unSelectedItem
 
+## Material Button
 
+* colorPrimary -> background
+* colorOnPrimary -> ripple,text
+* colorOnSurface -> disabledBackground、disabledText、stroke
 
 ## [Default Color](https://github.com/material-components/material-components-android/blob/master/lib/java/com/google/android/material/color/res/values/colors.xml)
 ```
