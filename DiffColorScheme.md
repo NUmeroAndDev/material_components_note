@@ -7,6 +7,12 @@
 * colorOnSurface
 * colorText
 
+## MaterialRadioButton  
+
+* colorSecondary  
+* colorOnSurface  
+* colorSurface  
+
 ## TabLayout  
 
 ### Default  
@@ -34,7 +40,22 @@
 
 * colorPrimary -> background
 * colorOnPrimary -> ripple,text
-* colorOnSurface -> disabledBackground、disabledText、stroke
+* colorOnSurface -> disabledBackground, disabledText, stroke
+
+## FAB  
+
+* colorSecondary -> backgroundTint
+* colorOnSecondary -> ripple,tint  
+
+## Material Card  
+
+* colorSurface -> cardBackgroundColor  
+
+## Chip  
+
+* colorOnSurface -> background, ripple, textColor, closeIconTint, stroke   
+
+
 
 ## [Default Color](https://github.com/material-components/material-components-android/blob/master/lib/java/com/google/android/material/color/res/values/colors.xml)
 ```
